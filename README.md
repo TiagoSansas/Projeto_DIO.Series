@@ -1,2 +1,2 @@
 # Projeto_DIO.Series
-### Criação de um sistema de Seires com CRUD.
+### Criação de um sistema de cadastro de Seires em memoria.
